@@ -1,0 +1,3 @@
+product_id;product_name;product_category;brand;package_quantity;package_unit;price;currency
+1;Milk;Dairy;BrandA;1;L;5.5;RON
+2;Bread;Bakery;BrandB;0.5;Kg;3.2;RON
