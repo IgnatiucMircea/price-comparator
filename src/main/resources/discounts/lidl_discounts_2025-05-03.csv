@@ -1,0 +1,6 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P006;ouă M;Lidl;10;buc;alimentație;2025-05-03;2025-05-09;10
+P014;roșii cherry;Lidl;250;g;legume și fructe;2025-05-03;2025-05-09;8
+P030;smântână 20%;Pilos;400;g;lactate;2025-05-03;2025-05-09;12
+P044;gel de duș lavandă;Cien;300;ml;îngrijire personală;2025-05-03;2025-05-09;20
+P052;ciocolată neagră 70%;Fin Carre;100;g;gustări;2025-05-03;2025-05-09;15

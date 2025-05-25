@@ -1,0 +1,6 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P002;iaurt natur;Napolact;150;g;lactate;2025-05-03;2025-05-09;10
+P016;castraveți proaspeți;Profi;1;kg;legume și fructe;2025-05-03;2025-05-09;7
+P035;cafea instant;Nescafé;0.2;kg;cafea;2025-05-03;2025-05-09;15
+P043;gel de duș aloe vera;Dove;250;ml;îngrijire personală;2025-05-03;2025-05-09;20
+P050;vin roșu sec;Recas;0.75;l;băuturi;2025-05-03;2025-05-09;10

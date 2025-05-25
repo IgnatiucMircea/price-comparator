@@ -30,15 +30,10 @@ Price Comparator is a backend REST API that compares supermarket product prices,
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/IgnatiucMircea/price-comparator>
 cd price-comparator
 ```
 
-2. Place your CSV files in the appropriate directories:
-
-    * `src/main/resources/prices`
-    * `src/main/resources/discounts`
-    * `products.csv` at the root of `resources`
 
 ### Running the App
 

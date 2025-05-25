@@ -1,0 +1,6 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P010;unt 82%;K-Classic;200;g;lactate;2025-05-02;2025-05-08;10
+P011;pâine albă;Kaufland;500;g;panificație;2025-05-02;2025-05-08;7
+P025;cartofi albi;Kaufland;1;kg;legume;2025-05-02;2025-05-08;5
+P041;săpun lichid;Isana;500;ml;îngrijire personală;2025-05-02;2025-05-08;18
+P053;napolitane cacao;Joe;180;g;gustări;2025-05-02;2025-05-08;12

@@ -1,0 +1,6 @@
+product_id;product_name;product_category;brand;package_quantity;package_unit;price;currency
+P002;iaurt natur;lactate;Napolact;150;g;2.19;RON
+P012;baghetă franțuzească;panificație;Profi;300;g;3.49;RON
+P016;castraveți proaspeți;legume și fructe;Profi;1;kg;4.39;RON
+P035;cafea instant;cafea;Nescafé;0.2;kg;22.99;RON
+P050;vin roșu sec;băuturi;Recas;0.75;l;19.99;RON

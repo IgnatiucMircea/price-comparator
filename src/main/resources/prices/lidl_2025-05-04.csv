@@ -1,0 +1,7 @@
+product_id;product_name;brand;package_quantity;package_unit;price
+product_id;product_name;product_category;brand;package_quantity;package_unit;price;currency
+P001;lapte UHT 3.5%;lactate;Pilos;1;l;6.89;RON
+P006;ouă M;alimentație;Lidl;10;buc;9.99;RON
+P014;roșii cherry;legume și fructe;Lidl;250;g;5.49;RON
+P034;cafea măcinată;cafea;Bellarom;0.25;kg;18.99;RON
+P052;ciocolată neagră 70%;gustări;Fin Carre;100;g;4.59;RON
