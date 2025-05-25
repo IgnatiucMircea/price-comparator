@@ -17,7 +17,7 @@ public class CsvLoader {
             Reader reader = new InputStreamReader(inputStream, java.nio.charset.StandardCharsets.UTF_8);
             return new CsvToBeanBuilder<T>(reader)
                     .withType(clazz)
-                    .withSeparator(';') // change to ',' if your CSV uses comma
+                    .withSeparator(';')
                     .build()
                     .parse();
         } catch (Exception e) {
